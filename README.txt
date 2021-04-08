@@ -1,0 +1,3 @@
+I wanted to teach myself python so I came up with a little project idea and figured out how to go about it. The python script utilizes the Twitter API (which required a Twitter developer account), web scraping (in order to get a random word from Urban Dictionary, and a library called urbandict (which was used to get the definition and an example of each word more easily). I also had to teach myself some of the basics of AWS lambda in order to automate the bot so it would tweet once a day. Shortly after finishing I added another daily tweet that takes a random positive message from a list of about 500 positive messages that I could find on the internet.
+
+https://twitter.com/Josh_NotABot
